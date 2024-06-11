@@ -15,7 +15,7 @@ cout<<"lower_bound for element 4 at position : "<<lower1 - v.begin()<<endl; // 2
 ```
 
 # Upper Bound
-upper_bound() is a standard library function in C++ defined in the header. It returns an iterator pointing to the first element in the range [first, last) that is greater than value, or last if no such element is found. The elements in the range shall already be sorted or at least partitioned with respect to val.
+`upper_bound()` is a standard library function in `C++` defined in the header. It returns an iterator pointing to the first element in the range [first, last) that is greater than value, or last if no such element is found. The elements in the range shall already be sorted or at least partitioned with respect to val.
 
 ## Example:
 ```
